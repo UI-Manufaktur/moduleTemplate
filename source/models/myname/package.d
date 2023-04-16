@@ -1,1 +1,1 @@
-module models.myName;
+module models.myname;
