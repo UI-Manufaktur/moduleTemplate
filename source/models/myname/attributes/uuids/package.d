@@ -1,3 +1,3 @@
-module models.myName.attributes.uuids;
+module models.myname.attributes.uuids;
 
-public import models.myName.attributes.uuids.entities;
+public import models.myname.attributes.uuids.entities;

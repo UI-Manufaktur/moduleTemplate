@@ -1,1 +1,1 @@
-module models.myName.attributes.uuids.entities;
+module models.myname.attributes.uuids.entities;

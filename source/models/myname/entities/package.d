@@ -1,1 +1,1 @@
-module models.myName.entities;
+module models.myname.entities;
