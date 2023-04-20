@@ -1,1 +1,1 @@
-# Package 📦 models.myname.attributes
+# Package 📦 models.myname.attributes.codes
