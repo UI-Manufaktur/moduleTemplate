@@ -1,1 +1,1 @@
-# moduleTemplate
+# Module library 🗃 modul-myname
