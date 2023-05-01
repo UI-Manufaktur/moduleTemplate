@@ -1,1 +1,1 @@
-# Module library 🗃 modul-myname
+# Model library 🗃 model-myname
