@@ -1,1 +1,1 @@
-
+module models.mynane.tests;
